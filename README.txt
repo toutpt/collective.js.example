@@ -8,8 +8,10 @@ Plone default javascript libraries
 ==================================
 
 Plone 4.0: jquery 1.4.X and jquerytools 1.2.5
-Plone 3.1: jquery 1.3.X
-Plone 3.0: jquery 1.2.X
+Plone 3.3: jquery 1.3.2
+Plone 3.2: jquery 1.2.6
+Plone 3.1: jquery 1.2.6
+Plone 3.0: 
 
 Why not jqueryui:
 Some core developers think jqueryui is too heavy to be included in Plone
